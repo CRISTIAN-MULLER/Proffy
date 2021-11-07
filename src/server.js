@@ -24,6 +24,7 @@ const subjects = [
   'Matemática',
   'Português',
   'Química',
+  'Programação',
 ];
 
 const weekdays = [
